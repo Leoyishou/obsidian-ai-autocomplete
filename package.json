@@ -1,6 +1,6 @@
 {
   "name": "obsidian-ai-autocomplete",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "AI inline auto-completion for Obsidian powered by OpenAI-compatible APIs",
   "main": "main.js",
   "scripts": {

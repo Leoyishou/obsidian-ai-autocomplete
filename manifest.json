@@ -1,7 +1,7 @@
 {
   "id": "ai-autocomplete",
   "name": "AI Autocomplete",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "minAppVersion": "0.15.0",
   "description": "Inline AI writing completion with ghost text. Powered by Groq. Tab to accept.",
   "author": "liuyishou",

@@ -336,7 +336,7 @@ class AIAutocompleteSettingTab extends PluginSettingTab {
       .setDesc("Optional app attribution")
       .addText((text) =>
         text
-          .setPlaceholder("https://github.com/...")
+          .setPlaceholder("Enter a referer URL")
           .setValue(this.plugin.settings.httpReferer)
           .onChange(async (value) => {
             this.plugin.settings.httpReferer = value;
